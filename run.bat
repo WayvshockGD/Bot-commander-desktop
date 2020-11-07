@@ -1,2 +1,0 @@
-python home.py
-pause
