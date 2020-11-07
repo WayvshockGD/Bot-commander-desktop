@@ -1,0 +1,25 @@
+plugins {
+  id 'java'
+  id 'application'
+  id 'com.github.johnrengelman.shadow' version '5.2.0'
+}
+
+mainClassName = 'bcdf.bot'
+
+version = '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+  jcenter()
+}
+
+dependencies {
+  compile 'net.dv8tion:JDA:4.2.0_214'
+}
+dependencies {
+    compile("ch.qos.logback:logback-classic:1.2.3")
+}
+
+
+compileJava.options.encoding = 'UTF-8'
