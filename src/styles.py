@@ -1,7 +1,0 @@
-#buttons
-
-
-#text box
-
-
-#text
