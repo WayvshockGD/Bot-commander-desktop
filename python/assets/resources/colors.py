@@ -1,0 +1,5 @@
+color = "#494949"
+barColor = "#0C0C0C"
+white = "#FFFFFF"
+imgBackroundColor = "#00122B"
+TokenColor = "#2B2B2B"
